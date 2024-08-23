@@ -1,0 +1,23 @@
+/*Page d'acceuil*/
+
+img{
+	width: 90px;
+	height: 60px;
+}
+.btn{
+
+	float: left;
+}
+
+.form-group{
+	margin-top: 15px;
+	display: flex;
+	
+}
+
+/*Gestion equipe*/
+iframe{
+	width: 100%;
+
+	height: auto;
+}
